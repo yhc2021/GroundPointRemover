@@ -11,7 +11,7 @@ This is the official implementation of ***Ground Point Remover*** , a simple yet
 
 a. Clone this repository
 ```shell
-git clone https://github.com/yhc2021/GPR && cd GPR
+git clone https://github.com/yhc2021/GroundPointRemover && cd GroundPointRemover
 ```
 b. Configure the environment
 
@@ -35,7 +35,7 @@ d. Prepare the datasets.
 
 Download the official KITTI with [road planes](https://drive.google.com/file/d/1d5mq0RXRnvHPVeKx6Q612z0YRO1t2wAp/view?usp=sharing) and Waymo datasets, then organize the unzipped files as follows:
 ```
-GPR
+GroundPointRemover
 ├── data
 │   ├── kitti
 │   │   ├── ImageSets
@@ -123,9 +123,9 @@ If you find this project useful in your research, please consider cite:
 
 ## TODO List
 
--  Release pre-trained model of GPR on KITTI dataset
--  Release pre-trained model of GPR on Waymo dataset
--  Release gpu code of GPR for Waymo dataset
+-  Release pre-trained model of GroundPointRemover on KITTI dataset
+-  Release pre-trained model of GroundPointRemover on Waymo dataset
+-  Release gpu code of GroundPointRemover for Waymo dataset
 -  Update the patchwork++ compilation documentation
 
 
