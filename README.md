@@ -1,4 +1,4 @@
-# An Empirical Study of Ground Segmentation for 3D Object Detection (IEEE Transactions on Intelligent Transportation Systems)
+# An Empirical Study of Ground Segmentation for 3D Object Detection (Published in IEEE Transactions on Intelligent Transportation Systems)
 
 This is the official implementation of ***Ground Point Remover*** , a simple yet effective ground segmentation algorithm for 3D detection tasks. 
 
