@@ -1,7 +1,8 @@
 # An Empirical Study of Ground Segmentation for 3D Object Detection
 
-This is the official implementation of ***GPR*** , a simple yet effective ground segmentation algorithm for 3D detection tasks. 
-[<a href="https://github.com/yifanzhang713/IA-SSD.git">paper</a>]
+This is the official implementation of ***Ground Point Remover*** , a simple yet effective ground segmentation algorithm for 3D detection tasks. 
+
+[<a href="https://ieeexplore.ieee.org/document/10858601">paper</a>]
 
 <img width="2383" height="1112" alt="image" src="https://github.com/user-attachments/assets/da232b31-8645-4cbe-a289-3c7751efae13" />
 
