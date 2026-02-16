@@ -1,4 +1,4 @@
-# An Empirical Study of Ground Segmentation for 3D Object Detection
+# An Empirical Study of Ground Segmentation for 3D Object Detection (IEEE Transactions on Intelligent Transportation Systems)
 
 This is the official implementation of ***Ground Point Remover*** , a simple yet effective ground segmentation algorithm for 3D detection tasks. 
 
@@ -95,6 +95,23 @@ python test.py --cfg_file cfgs/kitti_models/GPR.yaml  --batch_size ${BATCH_SIZE}
 
 sh scripts/dist_test.sh ${NUM_GPUS} \
     --cfg_file cfgs/kitti_models/GPR.yaml --batch_size ${BATCH_SIZE} --ckpt ${PTH_FILE}
+```
+
+## Citation 
+If you find this project useful in your research, please consider cite:
+
+
+```
+@article{yang2025empirical,
+  title={An empirical study of ground segmentation for 3-D object detection},
+  author={Yang, Hongcheng and Liang, Dingkang and Liu, Zhe and Li, Jingyu and Zou, Zhikang and Ye, Xiaoqing and Bai, Xiang},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={26},
+  number={3},
+  pages={3071--3083},
+  year={2025},
+  publisher={IEEE}
+}
 ```
 
 
